@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Athira</h1>
 <h3 align="center">AI and DS student at Cusat</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athiramohandas12" alt="athiramohandas12" /></a> </p>
 
 - 👋 Hello there! I'm Athira, an enthusiastic student passionate about the fascinating realms of Artificial Intelligence and Data Science. [.](.)
 

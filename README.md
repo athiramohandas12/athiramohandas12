@@ -15,6 +15,8 @@
 - 🚀 Excited to collaborate on projects, contribute to open-source initiatives, and continually expand my knowledge in this dynamic field. **.**
 
 - 🔍 Seeking opportunities to learn, grow, and make meaningful contributions to AI and Data Science communities. **.**
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
